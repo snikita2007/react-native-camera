@@ -3,6 +3,8 @@ update 1
 
 update 2
 
+update 3
+
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
